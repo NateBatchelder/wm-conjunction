@@ -1,0 +1,9 @@
+export const primary = 'rgba(3, 169, 244, 0.1)';
+export const secondary = 'rgba(156, 39, 176, 0.1)';
+export const defaultColor = 'rgba(0, 188, 212, 0.1)';
+export const danger = 'rgba(244, 67, 54, 0.1)';
+export const warning = 'rgba(255, 152, 0, 0.1) ';
+export const success = '#rgba(76, 175, 80, 0.1)';
+export const info = 'rgba(0, 188, 212, 0.1)';
+export const dark = 'rgba(0, 0, 0, 0.1)';
+export const light = 'rgba(96, 125, 139, 0.1)';
